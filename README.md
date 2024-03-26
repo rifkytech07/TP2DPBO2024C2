@@ -23,5 +23,5 @@ Lalu, terdapat formulir data mahasiswa yang terdiri dari:
 
 # Dokumentasi
 
-
+https://github.com/rifkytech07/TP2DPBO2024C2/assets/147624515/9fddf147-deb4-42b5-8648-b42b7fc73128
 
